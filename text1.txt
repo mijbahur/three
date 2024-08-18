@@ -2,3 +2,5 @@ inside text1 file.
 Set-Location "D:\GitHub"
 gg
 kjh
+
+jhfg
